@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025986291521",
+    "firebase_url": "https://instareactnative-8319b-default-rtdb.firebaseio.com",
+    "project_id": "instareactnative-8319b",
+    "storage_bucket": "instareactnative-8319b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025986291521:android:3844a2aa9426d336a9a3c0",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025986291521-c0ilm1hj3piu047mceiqo5cstt2nt8lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZclMcw_xDyRi41LiDYZXtFkVsXI2772U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025986291521-c0ilm1hj3piu047mceiqo5cstt2nt8lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
